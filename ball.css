@@ -1,0 +1,461 @@
+.ball_0{
+    height: 640px;
+    width: 1200px;
+    background-image: url(./ball/dialog_background_1.png);
+    background-position: top, left;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-left:220px;
+    margin-top: 10px;
+ }
+ .ball_1{
+    height: 640px;
+    width: 1200px;
+    background-image: url(./ball/dialog_background_2.png);
+    background-position: top, left;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-left:220px;
+    margin-top: 10px;
+ }
+ .chat1{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./First_chat/chat1.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.chat2{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./First_chat/chat2.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.chat3{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./First_chat/chat3.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.chat4{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./First_chat/chat4.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.chat5{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./First_chat/chat5.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.chat6{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./First_chat/chat6.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.miss1{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./miss/miss1.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.miss2{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./miss/miss2.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.miss3{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./miss/miss3.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.miss4{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./miss/miss4.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.miss5{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./miss/miss5.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.miss6{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./miss/miss6.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.miss10{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./miss/miss10.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.miss11{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./miss/miss11.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.miss12{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./miss/miss12.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.miss13{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./miss/miss13.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.miss14{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./miss/miss14.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.miss15{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./miss/miss15.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.miss16{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./miss/miss16.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.confess1{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./confess/confess1.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.confess2{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./confess/confess2.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.confess3{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./confess/confess3.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.confess4{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./confess/confess4.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.confess5{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./confess/confess5.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.confess6{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./confess/confess6.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.confess7{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./confess/confess7.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.confess8{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./confess/confess8.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.confess9{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./confess/confess9.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.confess10{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./confess/confess10.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.confess11{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./confess/confess11.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.confess12{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./confess/confess12.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.confess13{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./confess/confess13.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.confess14{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./confess/confess14.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.confess15{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./confess/confess15.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.confess16{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./confess/confess16.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.confess17{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./confess/confess17.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.ending1{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./ending/ending1.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.ending2{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./ending/ending2.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.ending3{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./ending/ending3.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}
+.ending4{
+   height: 640px;
+   width: 1200px;
+   background-image: url(./ending/ending4.png);
+   background-position: top, left;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-left:220px;
+   margin-top: 10px;
+}

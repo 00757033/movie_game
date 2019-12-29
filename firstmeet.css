@@ -1,0 +1,23 @@
+.start{
+    height: 640px;
+    width: 1200px;
+    background-color: black;
+    background-position: top, left;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: left;
+    margin-left:220px;
+    margin-top: 10px;
+ }
+
+ .example {
+    color: blanchedalmond;
+    font-family: cursive;
+    display: block;
+    font-size: 40px;
+    margin-block-start: 50px;
+    margin-block-end: 20px;
+    margin-inline-start: 50px;
+    margin-inline-end: 20px;
+    font-weight: bold;
+}

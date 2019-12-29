@@ -1,0 +1,47 @@
+.leftdiv{
+    height: 250px;
+    width: 200px;
+    background-position: top, left;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-left:10px;
+    margin-top: 10px;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: default;
+    position: fixed;
+ }
+ div{
+    position: fixed;
+    opacity:0.95;
+ }
+ .left2div{
+    height: 100px;
+    width: 200px;
+    background-position: top, left;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-left:10px;
+    margin-top: 300px;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: default;
+    position: fixed;
+ }
+ul{
+    padding-left: 10px;
+ }
+ audio {
+    margin-left:10px;
+    margin-top: 500px;
+    width: 200px;
+    height: 54px;
+}
+body{
+    background-image: url("back.jpg");
+    background-position: top, left;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}

@@ -84,7 +84,6 @@ function sound(src) {
     this.sound.src = src;
     this.sound.setAttribute("preload", "auto");
     this.sound.setAttribute("controls", "none");
-    this.sound.setAttribute("autoplay", "true");
     this.sound.setAttribute("float", "true");
     document.body.appendChild(this.sound);
     this.play = function(){

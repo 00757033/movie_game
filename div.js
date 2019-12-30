@@ -32,6 +32,9 @@ $(document).ready(function () {
     starts();
 });
 function starts(){
+    $("#lip0").mouseenter(function () {
+        $("#lip0").css("cursor", "pointer");
+      });
     for(var i=0;i<localStorage.length;i++){
     if (localStorage.getItem(localStorage.key(i))==0) {
         $(localStorage.key(i)).css("color", "gray");

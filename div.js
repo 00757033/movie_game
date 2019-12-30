@@ -14,9 +14,10 @@ $(document).ready(function () {
         $("#leftdiv").html(inner);
         localStorage.setItem("#li0",1);
         $("#li0").css("cursor", "pointer");
-        for(var i=0;i<=7;i++){
+        for(var i=1;i<=7;i++){
             if(localStorage.getItem("#li"+i)==null)
                 localStorage.setItem("#li"+i,0);
+                $("#li"+i).css("cursor", "default");
         }
         inner='';
         inner='<ul> Elizabeth & Collins';

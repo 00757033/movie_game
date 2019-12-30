@@ -1,6 +1,5 @@
 $(document).ready(function () {
     var myMusic= new sound("String_Quartet.mp3");
-    myMusic.play();
     var inner='';
     inner='<ul><li>Elizabeth & Darcy<ul>';
         inner+='<li id="li0" onClick="clickchapter(event)">First meet</li>';

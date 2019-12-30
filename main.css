@@ -3,11 +3,12 @@
     width: 1200px;
     background-color: black;
     background-position: top, left;
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
     text-align: left;
     margin-left:220px;
     margin-top: 10px;
+
  }
  .example {
     color: blanchedalmond;

@@ -82,7 +82,6 @@ function clickchapter(e){
 function sound(src) {
     this.sound = document.createElement("audio");
     this.sound.src = src;
-    this.sound.setAttribute("preload", "auto");
     this.sound.setAttribute("controls", "none");
     this.sound.setAttribute("autoplay", "flase");
     this.sound.setAttribute("float", "true");
